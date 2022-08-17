@@ -25,8 +25,8 @@
 - It took me around 3 hours to built this website from scratch.
 
 ## Links
-- [live demo](#)
-- [source](#)
+- [live demo](https://plant-home-page-by-shriram.netlify.app/)
+- [source](https://github.com/RAM844/Plant-Home-Page)
 
 
 ## Contact me
