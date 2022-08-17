@@ -1,0 +1,132 @@
+
+*{
+    margin:0 ;
+    padding: 0;
+
+
+}
+body{
+    margin: 50px 50px;
+    margin-top: 60px;
+    margin-right: 0px;
+    margin-bottom: 0;
+
+
+}
+#navbarMonstera, #navMid, #navEnd{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+#navbarMonstera{
+    margin-right: 100px;
+}
+
+#navMid h4{
+   margin-left: 80px;
+   font-size: 20px;
+   letter-spacing: 2;
+   cursor: pointer;
+   padding-bottom: 5px;
+   font-family: 'Allerta';
+}
+#navMid h4:hover{
+   
+    border-bottom: solid 1px #000;
+}
+
+#navEnd img{
+    margin-left: 40px;
+    width: 20px;
+}
+
+#midWhole{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+#imgMain{
+    width: 40vw;
+}
+
+#midWholePart1{
+    display: flex;
+    flex-direction: column;
+}
+
+#midWholePart11{
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+ #monstera{
+    font-family: 'Allerta';
+    font-weight: 1000   ;
+    font-size: 100px;
+    letter-spacing: 2px;
+}
+li{
+    text-align: justify;
+    margin-right: 25%;
+    font-size: 20px;
+    margin-top: 2px;
+    font-family: 'Abel';
+}
+
+#midWholePart121{
+    font-family: 'Abel';
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 30%;
+    align-content: center;
+    padding: 10px 20px;
+    border-radius: 40px;
+    font-size: 18px;
+    color:#fff;
+    background-color: #466D4F;
+}
+ 
+#midWholePart12{
+   display: flex;
+   flex-direction: row;
+   justify-content: flex-start;
+   margin-bottom: 70px;
+}
+#midWholePart122{
+    margin: auto;
+    font-size: 18px;
+}
+
+
+#midWholePart13{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.midWholePart13Parts{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.midWholePart13Parts img{
+    margin: 0 10px;
+    height: 60px;
+    width: 40px;
+}
+
+.midWholePart13Parts h4{
+    font-size: 22px;
+    font-family: 'Allerta';
+}
+
+
+.text{
+    font-size: 12px;
+    margin-right: 20px;
+    text-align: justify;
+}
