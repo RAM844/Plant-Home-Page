@@ -1,4 +1,4 @@
-# Law Home Page
+# Plant Home Page
 
 - This is a Plant Home page, made using html and css 
 
